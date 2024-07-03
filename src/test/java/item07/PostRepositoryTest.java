@@ -1,6 +1,7 @@
 package item07;
 
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 
 import java.lang.ref.SoftReference;
 import java.util.Comparator;
